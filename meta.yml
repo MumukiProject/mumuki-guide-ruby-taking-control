@@ -3,7 +3,13 @@ name: Taking control
 locale: en
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: ruby
 id_format: "%05d"
-order: []
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
